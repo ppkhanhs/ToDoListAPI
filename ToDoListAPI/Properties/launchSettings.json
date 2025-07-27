@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "ToDoListAPI": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger", 
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:51822;http://localhost:51823"
+    }
+  }
+}
